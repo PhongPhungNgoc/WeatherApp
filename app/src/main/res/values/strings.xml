@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">WeatherApp</string>
+    <string name="city_state">City, State</string>
+    <string name="tenThanhPho">Tên Thành Phố</string>
+    <string name="tenQuocGia">Tên Quốc Gia</string>
+    <string name="nhietDo">Nhiệt độ</string>
+    <string name="trangThai">Trạng Thái</string>
+    <string name="todo">TODO</string>
+    <string name="ngayCapNhat">Ngày cập nhật</string>
+    <string name="ngayThang">Ngày Tháng</string>
+    <string name="txtMaxTemp">Max Temp</string>
+    <string name="txtMinTemp">Mix Temp</string>
+</resources>

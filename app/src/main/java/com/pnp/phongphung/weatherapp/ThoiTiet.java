@@ -14,6 +14,10 @@ public class ThoiTiet {
     public ThoiTiet() {
     }
 
+    public ThoiTiet(String day) {
+        this.day = day;
+    }
+
     public ThoiTiet(String day, String status, String image, String maxTemp, String minTemp) {
         this.day = day;
         this.status = status;

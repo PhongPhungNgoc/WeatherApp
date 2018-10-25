@@ -11,6 +11,9 @@ public class ThoiTiet {
     private String maxTemp;
     private String minTemp;
 
+    public ThoiTiet() {
+    }
+
     public ThoiTiet(String day, String status, String image, String maxTemp, String minTemp) {
         this.day = day;
         this.status = status;
